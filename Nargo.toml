@@ -1,0 +1,7 @@
+[package]
+name = "merkleproof"
+type = "bin"
+authors = [""]
+
+[dependencies]
+trees = {path= "./merkle-trees"}
