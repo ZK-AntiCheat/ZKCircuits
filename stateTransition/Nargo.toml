@@ -1,0 +1,6 @@
+[package]
+name = "stateTransition"
+type = "bin"
+authors = [""]
+
+[dependencies]
