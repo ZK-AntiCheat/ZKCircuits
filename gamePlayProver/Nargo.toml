@@ -1,0 +1,6 @@
+[package]
+name = "gamePlayProver"
+type = "bin"
+authors = [""]
+
+[dependencies]
